@@ -64,6 +64,10 @@
          li{
             color:#00B7A1;
          }
+
+         .contact li:hover{
+            color:white;
+        }  
     li:hover{
               color:rgb(37, 36, 36);
           }
